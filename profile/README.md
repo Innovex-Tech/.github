@@ -1,18 +1,18 @@
 
 
 <div id="header" align="center">
-  <h1>Hello World 👋, We are InnoveX Techs!</h1>
+  <h1>Hello World 👋, We are COSMIC Labs!</h1>
 </div>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV2eWwyZm05dGQ2M3N1cWdwZXR0YmhxNHNuYnNpa2J2ZzdoOG5xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSBdOWQDccvBzv3Eb/giphy-downsized-large.gif" width="60%"/>
+<div id="header" align="center" font="bold" >
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwcjAxNzA0cGg2YXk0enVpaGNnNmV1ajJmZmdzcXRwcm85bjRsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VoZ0MI75DCN58IKJil/giphy-downsized-large.gif" width="800"/>
 </div>
 
 
 <div>
  
-  <h3>- :telescope: Welcome to InnoveX, where innovation meets excellence! 🚀 We are a dynamic team of tech enthusiasts passionate about</h3>
+  <h3>- :telescope: Welcome to COSMOS, where innovation meets excellence! 🚀 We are a dynamic team of tech enthusiasts passionate about</h3>
 
 - :seedling: crafting cutting-edge websites,
 - :seedling: developing stunning mobile apps,
